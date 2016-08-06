@@ -1,0 +1,31 @@
+_repo: Without-Dogma--A-Novel-of-Modern-Poland_11686
+_version: 0.0.1
+alternative_title: Bez dogmatu. English
+contributor:
+  translator:
+    agent_name: Young, Iza
+    gutenberg_agent_id: '38909'
+    url: http://www.gutenberg.org/2009/agents/38909
+creator:
+  author:
+    agent_name: Sienkiewicz, Henryk
+    birthdate: 1846
+    deathdate: 1916
+    gutenberg_agent_id: '1052'
+    url: http://www.gutenberg.org/2009/agents/1052
+    wikipedia: http://en.wikipedia.org/wiki/Henryk_Sienkiewicz
+description: ''
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11686'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poland -- Fiction'
+- !lcc 'PG'
+- GITenberg
+title: 'Without Dogma: A Novel of Modern Poland'
+url: http://www.gutenberg.org/ebooks/11686
