@@ -1,11 +1,14 @@
 _repo: Without-Dogma--A-Novel-of-Modern-Poland_11686
-_version: 0.0.1
+_version: 0.1.0
 alternative_title: Bez dogmatu. English
 contributor:
   translator:
     agent_name: Young, Iza
     gutenberg_agent_id: '38909'
     url: http://www.gutenberg.org/2009/agents/38909
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Sienkiewicz, Henryk
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1052
     wikipedia: http://en.wikipedia.org/wiki/Henryk_Sienkiewicz
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11686#Without-Dogma--A-Novel-of-Modern-Poland
 gutenberg_issued: '2004-03-01'
 gutenberg_type: Text
 identifiers:
